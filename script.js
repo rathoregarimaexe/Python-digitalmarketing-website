@@ -8,4 +8,4 @@ window.addEventListener('scroll', () => {
     header.classList.remove('scrolled');
   }
 });
-const menuItems
+
